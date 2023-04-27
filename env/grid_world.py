@@ -1,6 +1,6 @@
 import numpy as np
-from utils.helper_functions import row_col_to_seq
-from utils.helper_functions import seq_to_col_row
+from helper_functions import row_col_to_seq
+from helper_functions import seq_to_col_row
 
 class GridWorld:
     """
